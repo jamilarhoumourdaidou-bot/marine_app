@@ -43,7 +43,7 @@ class _ListeScreenState extends State<ListeScreen> {
     return Scaffold(
       backgroundColor: const Color(0xFFF0F7F6),
       appBar: AppBar(
-        title: const Text('Aires Marines Protégées'),
+        title: const Text('Aires Marines Protégées 🌊'),
         actions: [
           IconButton(
             icon: const Icon(Icons.info_outline),
