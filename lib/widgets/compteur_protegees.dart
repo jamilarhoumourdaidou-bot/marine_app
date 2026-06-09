@@ -85,7 +85,7 @@ class _CompteurProtegeesState extends State<CompteurProtegees>
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Espèces protégées observées',
+                  'Espèces protégées — Sénégal',
                   style: TextStyle(
                     color: Colors.white70,
                     fontSize: 13,
